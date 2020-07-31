@@ -230,3 +230,80 @@ http://free.mrbjmiptv.online/play/free@broiptv.online/42122673/o1MyqLj5/rattus/n
 #EXTVLCOPT:http-user-agent=""
 http://free.mrbjmiptv.online/play/free@broiptv.online/42122673/NOhElfZs/rattus/mykids_rattus/playlist.m3u8
 
+
+
+#EXTINF:-1,V CHANEL MUSIC ASIA
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv 
+
+#EXTINF:-1,KATOLIK TV
+https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+
+ #EXTINF:-1,FR| beIN SPORTS 1 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/58334
+
+#EXTINF:-1,FR| BEIN SPORTS 1 HD
+http://topiptv.net:5890/hamza2020/hamza2020/587
+
+#EXTINF:-1,beIN SPORTS 1 H265
+http://topiptv.net:5890/hamza2020/hamza2020/56285
+
+#EXTINF:-1,FR| beIN SPORTS 2 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/588
+
+#EXTINF:-1,FR| BEIN SPORTS 2 HD
+http://topiptv.net:5890/hamza2020/hamza2020/589
+
+#EXTINF:-1,beIN SPORTS 2 H265
+http://topiptv.net:5890/hamza2020/hamza2020/56286
+
+#EXTINF:-1,FR| beIN SPORTS 3 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/590
+
+#EXTINF:-1,FR| BEIN SPORTS 3 HD
+http://topiptv.net:5890/hamza2020/hamza2020/591
+
+#EXTINF:-1,beIN SPORTS 3 H265
+http://topiptv.net:5890/hamza2020/hamza2020/56287
+
+#EXTINF:-1,FR| beIN SPORTS MAX 4 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/592
+
+#EXTINF:-1,FR| beIN SPORTS MAX 5 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/593
+
+#EXTINF:-1,FR| beIN SPORTS MAX 6 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/594
+
+#EXTINF:-1,FR| beIN SPORTS MAX 7 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/595
+
+#EXTINF:-1,FR| beIN SPORTS MAX 8 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/596
+
+#EXTINF:-1,FR| beIN SPORTS  MAX 9 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/597
+
+#EXTINF:-1,FR| beIN SPORTS MAX 10 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/598
+
+#EXTINF:-1,FR| EUROSPORT 1 HD
+http://topiptv.net:5890/hamza2020/hamza2020/627
+
+#EXTINF:-1,EUROSPORT H265
+http://topiptv.net:5890/hamza2020/hamza2020/56334
+
+#EXTINF:-1,FR| EUROSPORT 2 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/628
+
+#EXTINF:-1,FR| EUROSPORT 2 HD
+http://topiptv.net:5890/hamza2020/hamza2020/629
+
+#EXTINF:-1,EUROSPORT2 H265
+http://topiptv.net:5890/hamza2020/hamza2020/56335
+
+#EXTINF:-1,FR| FOOT+ 24/24 HD
+http://topiptv.net:5890/hamza2020/hamza2020/635
+
+#EXTINF:-1,FR| FOOT+ 24/24 FHD
+http://topiptv.net:5890/hamza2020/hamza2020/634
+
