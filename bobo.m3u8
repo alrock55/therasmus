@@ -68,3 +68,10 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="TV PREMIUM",  FOX MOVIE PREMIUM
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="TV PREMIUM",  AXN
+http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="TV PREMIUM",FOX FAMILY MOVIE
+http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8
+
+
