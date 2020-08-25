@@ -74,4 +74,5 @@ http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="TV PREMIUM",FOX FAMILY MOVIE
 http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://images.indianexpress.com/2017/08/hbo-copy.jpg" group-title="TV PREMIUM",HBO
+http://wajabae.com/tv/hbo.m3u8
