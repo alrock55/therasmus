@@ -50,7 +50,7 @@ http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2402.m3u8?chec
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="TV PREMIUM",  AXN
-http://103.47.132.164/PLTV/88888888/224/3221227159/01.m3u8
+http://rr.dens.tv/h/h141/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=AXN_HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="TV PREMIUM",FOX FAMILY MOVIE
 http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8
