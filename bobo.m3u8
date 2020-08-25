@@ -11,35 +11,38 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.detik.net.id/transmedia17/images/logo-cnbc.png?v=cf24f6e9" group-title="LOKAL",  CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.detik.net.id/transmedia17/images/logo-cnbc.png?v=cf24f6e9" group-title="LOKAL",  CNBC INDONESIA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",  ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
-http://brhn.xyz/stream/rcti.m3u
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/4BkVXZpk8AIyurcNFcQjunBMlvhqbFHYOIK4O3JrgJvtwr_Seibsof29E46n-FGeeA38pfMMiqWJQo3ZeLICivHn6DDPg91OJ6J7VuRFjxVFTsCmbc-j2ZOfzmJTCmnp5DnI1sYZA0NLrGk" group-title="LOKAL",  BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="GlobalTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",Global TV
-http://brhn.xyz/stream/globaltvhd.m3u
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/30x556:661x1030/x/photo/2020/08/11/3599463791.png" group-title="LOKAL",  INDOSIAR
+http://103.47.132.164/PLTV/88888888/224/3221227345/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="TV Nasional",MNC TV
-http://brhn.xyz/stream/mnctv.m3u
+#EXTINF:-1 tvg-logo="https://cdn2.tstatic.net/jabar/foto/bank/images/net-tv.jpg" group-title="LOKAL",  NET
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
 
+#EXTINF:-1 tvg-logo="https://cdn2.tstatic.net/pontianak/foto/bank/images/logo-trans7-tv-online.jpg" group-title="LOKAL",  TRANS 7
+http://210.210.155.35/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXcLJ9d/Egg-Network.png" group-title="Extra Sports",Egg Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1200px-TvOne_logo_2012.svg.png" group-title="LOKAL",  TVONE
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",ANTV
-http://203.153.218.26:9981/stream/channelid/1654354630?ticket=EF1E3EB81D783E0D087B41807DD21AC57A1883EB&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="LOKAL",  TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",BERITA SATU LINK 2
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg" group-title="TV PREMIUM",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",CNN INDONESIA HD LINK 2
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WAysrUZgF0grr_pph4T2LYUgp-w=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg" group-title="LOKAL",METRO TV 
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",AREK TV
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WAysrUZgF0grr_pph4T2LYUgp-w=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg" group-title="LOKAL",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",CNBC Indonesia LIKN 2
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXQD3YFIJGl51t0LBqRBcIBlqeCPiez9wXhg&usqp=CAU" group-title="SPORT",PPTV HD
+http://iptv-line.com:7899/live/caribbeanroots25-restream/DCPMNO4o/2402.m3u8?checkedby:iptvcat.com
 
 
 
@@ -70,3 +73,41 @@ http://210.210.155.35/uq2663/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2016/04/cineworld-1.jpg" group-title="TV PREMIUM", CINEMA WORLD
 http://45.126.83.51/uq2663/h/h04/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="TV PREMIUM", CELESTIAL MOVIE
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="TV PREMIUM", CINEMAX
+http://wajabae.com/tv/cinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="TV PREMIUM", FOX ACTION MOVIE
+http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="TV PREMIUM", KDRAMA
+http://103.47.132.164/PLTV/88888888/224/3221227117/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="TV PREMIUM", K+
+http://45.126.83.51/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/kix%20hd%20(On%20White).png" group-title="TV PREMIUM", KIX
+http://45.126.83.51/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732" group-title="TV PREMIUM", REDBYHBO
+http://wajabae.com/tv/red_hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-CMNKrpUmlj8/XE6oAgKVlpI/AAAAAAAAnI8/5kLljhrSNPk1ds6cA-W-yKY0NdsTaRx3ACLcBGAs/s1920/frekuensi-sinema-indonesia-x.jpg" group-title="TV PREMIUM", CINEMA INDO
+http://103.47.132.164/PLTV/88888888/224/3221227233/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/Sonysetone_logo.png/revision/latest/scale-to-width-down/340?cb=20170701184852" group-title="TV PREMIUM", SONYONE
+http://rr.dens.tv/h/h143/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="TV PREMIUM", TVN MOVIE
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28738?play_token=wPuKwpk9wC&token=QhVcUhcJRggXAQNUAl8AUANSVQsCVFNSVwAFUwIEVVVaBANWXAABA1FGGURBEkJRAFtpWgVEXlFdUwZZSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1ZXCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/STARM-logo.png" group-title="TV PREMIUM", Star Chinese movie
+http://103.47.132.165/PLTV/88888888/224/3221227147/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/98162f11230587.560314a2b154b.jpg" group-title="TV PREMIUM", WARNERBROSS TV
+http://103.47.132.165/PLTV/88888888/224/3221227147/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfdWrN-KtW8jqPgS-Z9m2fAJjgRIY--38XiQ&usqp=CAU" group-title="TV PREMIUM",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
