@@ -89,7 +89,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227117/2.m3u8
 http://45.126.83.51/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/kix%20hd%20(On%20White).png" group-title="TV PREMIUM", KIX
-http://45.126.83.51/uq2663/h/h08/index.m3u8
+http://rr.dens.tv/h/h07/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/340?cb=20160516085732" group-title="TV PREMIUM", REDBYHBO
 http://wajabae.com/tv/red_hbo.m3u8
