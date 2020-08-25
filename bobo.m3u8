@@ -41,29 +41,7 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",CNBC Indonesia LIKN 2
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",Jakarta Globe News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",MY TV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="LOKAL",CTV BANTEN
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="SPORTS",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="SPORTS",REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="MUSIC CHANNEL",KARAOKE CHANNEL
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="TV PREMIUM",  FOX MOVIE PREMIUM
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
@@ -76,3 +54,19 @@ http://103.47.132.164/PLTV/88888888/224/3221227117/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indianexpress.com/2017/08/hbo-copy.jpg" group-title="TV PREMIUM",HBO
 http://wajabae.com/tv/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" group-title="TV PREMIUM",HBO FAMILY
+http://wajabae.com/tv/hbo_family.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="TV PREMIUM",HBO HITS
+http://wajabae.com/tv/hbo_hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="TV PREMIUM",HBO SIGNATURE
+http://wajabae.com/tv/hbo_hits_sig.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="TV PREMIUM", HITS TV
+http://210.210.155.35/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.boxofficepro.com/wp-content/uploads/2016/04/cineworld-1.jpg" group-title="TV PREMIUM", CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
